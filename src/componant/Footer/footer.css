@@ -1,0 +1,13 @@
+.footers{
+    background-color: #3e3e3e;
+}
+.footer {
+    color: #ffffff;
+    padding: 20px;
+
+}
+.footer li a{
+    list-style: none;
+    text-decoration: none;
+    color: #FFF;
+}
